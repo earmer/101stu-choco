@@ -1,0 +1,7 @@
+name = "101stu-choco"
+main = "src/index.ts"
+compatibility_date = "2024-07-01"
+
+[[kv_namespaces]]
+binding = "DB"
+id = "30d9995779b742eeaa9cffa06da8a625"
